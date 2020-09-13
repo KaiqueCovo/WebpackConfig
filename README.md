@@ -54,7 +54,7 @@ $ yarn install
 # or
 $ npm install
 
-# Build prodution project
+# Build production project
 $ yarn production
 
 # Build development project
